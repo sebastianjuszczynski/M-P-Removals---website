@@ -17,41 +17,6 @@ The project focuses on creating a clean, modern and professional landing page th
 ![Website Preview](./1.png)
 ![Website Preview](./2.png)
 
-# M-P Removals Website 🚚
-
-A responsive business website built with **HTML, CSS and JavaScript** for a removals and moving service company.
-
-The project focuses on creating a clean, modern and professional landing page that presents company services and allows potential clients to quickly learn about the business.
-
----
-
-# Live Demo
-
-👉 https://sebastianjuszczynski.github.io/M-P-Removals---website/
-
----
-
-# Preview
-
-![Website Preview](./1.png)
-# M-P Removals Website 🚚
-
-A responsive business website built with **HTML, CSS and JavaScript** for a removals and moving service company.
-
-The project focuses on creating a clean, modern and professional landing page that presents company services and allows potential clients to quickly learn about the business.
-
----
-
-# Live Demo
-
-👉 https://sebastianjuszczynski.github.io/M-P-Removals---website/
-
----
-
-# Preview
-
-![Website Preview](./1.png)
-
 ---
 
 # Project Overview
