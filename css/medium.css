@@ -1,0 +1,20 @@
+.header__title {
+  font-size: 50px;
+}
+
+.header__paragraph {
+  font-size: 24px;
+}
+
+#prices .price-wrap {
+  width: 90%;
+}
+
+#prices .price-info {
+  font-size: 23px;
+}
+
+#comments .card-body {
+  height: 150px;
+}
+/*# sourceMappingURL=medium.css.map */
